@@ -1,0 +1,23 @@
+# Virtual Environment
+ml_env2/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Modell Dateien
+*.h5
+*.keras
+*.joblib
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
